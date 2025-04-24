@@ -1,0 +1,12 @@
+﻿################################################################################
+# Este arquivo .gitignore foi criado automaticamente pelo Microsoft(R) Visual Studio.
+################################################################################
+
+/CostManagement/obj
+/CostManagement/.vs/CostManagement
+/CostManagement/bin/Debug/net8.0
+/CostManagement.Application/obj
+/CostManagement.Domain/obj
+/CostManagement.Domain.Shared/obj
+/CostManagement.Infra.Data/obj
+/.vs
